@@ -1,0 +1,17 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+
+body {
+  margin: 0 auto;
+  display: flex;
+  min-width: 320px;
+  max-width: 768px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+}
